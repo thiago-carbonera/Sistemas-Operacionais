@@ -1,4 +1,4 @@
-# Makefile para compilar e executar cliente e servidor do exercício ex1
+# Makefile para compilar e executar cliente e servidor do exercício 1
 
 CC = gcc
 CFLAGS = -Wall

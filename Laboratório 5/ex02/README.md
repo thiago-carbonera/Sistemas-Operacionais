@@ -15,7 +15,7 @@ O programa `signal_graceful.c` executa as seguintes tarefas:
 
 ## Compilação e Execução
 
-Para compilar os programas:
+Para compilar o programa:
 ```bash
 make
 ```
